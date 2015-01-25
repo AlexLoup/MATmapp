@@ -1,6 +1,11 @@
 # MATmapp
 Android Bus Reference for NDSU Campus
 
+!! This app is NOT to be used for any commercial purposes whatsoever !!
+!! Although I've communicated with Fargo MAT about possible API use  !!
+!! I do not intend, nor have the legal right to profit off of their  !!
+!! bus system.                                                       !!
+
 This is an Android app that I've been messing around with in my free time.
 I wanted to teach myself  Android development and decided to get started
 by using an idea for an app I've had for quite a while.
