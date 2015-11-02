@@ -1,11 +1,6 @@
 # MATmapp
 Android Bus Reference for NDSU Campus
 
-!! This app is NOT to be used for any commercial purposes whatsoever !!
-!! Although I've communicated with Fargo MAT about possible API use  !!
-!! I do not intend, nor have the legal right to profit off of their  !!
-!! bus system.                                                       !!
-
 This is an Android app that I've been messing around with in my free time.
 I wanted to teach myself  Android development and decided to get started
 by using an idea for an app I've had for quite a while.
@@ -23,11 +18,3 @@ Users can launch Google Maps to see where that bus stop is as well.
 
 Users can also choose to pick a specific bus stop on their route to see when
 the next arrival will be there, even if it's not the closest location.
-
-The app only supports 4 routes on the NDSU campus at the moment because at
-this point in time, it's just meant to be a proof of concept. This was meant
-to give me an excuse to learn some Android dev and I've had a lot of fun
-doing it. :)
-
-
--Alex
